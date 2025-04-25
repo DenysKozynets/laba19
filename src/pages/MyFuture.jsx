@@ -1,5 +1,5 @@
 import React from "react";
-import "./MyFuture.css"; // імпортуємо окремий CSS-файл
+import "./MyFuture.css"; 
 
 const MyFuture = () => (
   <div className="future-container">
